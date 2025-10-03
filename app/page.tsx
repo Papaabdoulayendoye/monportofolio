@@ -211,7 +211,7 @@ export default function Home() {
                 className="text-6xl md:text-8xl font-bold tracking-tight glitch mb-4"
                 data-text="Papa Abdoulaye Ndoye"
               >
-                Papa Abdoulaye <span className="text-[#06b6d4]">Ndoye</span>
+                Papa Abdoulaye<span className="text-[#06b6d4]">Ndoye</span>
               </h1>
             </div>
             <p className="text-xl md:text-3xl text-muted-foreground max-w-3xl mx-auto opacity-0 animate-fade-in-up delay-200 leading-relaxed">
