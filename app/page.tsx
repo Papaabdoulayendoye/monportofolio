@@ -212,9 +212,10 @@ export default function Home() {
             <p className="text-xl md:text-3xl text-muted-foreground max-w-3xl mx-auto opacity-0 animate-fade-in-up delay-200 leading-relaxed">
               Développeur Full-Stack Junior
               <br />
-              <span className="text-[#06b6d4]">Recherche stage 6 mois</span> (mars 2026)
+              {/* <span className="text-[#06b6d4]">Recherche stage 6 mois</span> (mars 2026) */}
             </p>
-            <div className="flex flex-wrap gap-4 justify-center items-center opacity-0 animate-fade-in-up delay-400">
+             <div className="flex flex-wrap gap-4 justify-center items-center opacity-0 animate-fade-in-up delay-400">
+            {/*
               <Button
                 asChild
                 size="lg"
@@ -240,12 +241,12 @@ export default function Home() {
                   <Github className="mr-2 h-6 w-6" aria-hidden="true" />
                   GitHub
                 </a>
-              </Button>
+              </Button> */}
             </div>
-            <div className="flex items-center justify-center gap-3 opacity-0 animate-fade-in-up delay-600 mt-12">
+            {/* <div className="flex items-center justify-center gap-3 opacity-0 animate-fade-in-up delay-600 mt-12">
               <Code2 className="h-5 w-5 text-[#06b6d4]" aria-hidden="true" />
               <p className="text-sm text-muted-foreground">Valenciennes, France</p>
-            </div>
+            </div> */}
           </div>
         </section>
 
@@ -489,7 +490,7 @@ export default function Home() {
                   <Github className="h-7 w-7" aria-hidden="true" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/papa-abdoulaye-ndoye"
+                  href="https://www.linkedin.com/in/papa-abdoulaye-ndoye-56b6b5334/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-[#06b6d4] transition-all hover:scale-125"
@@ -498,7 +499,7 @@ export default function Home() {
                   <Linkedin className="h-7 w-7" aria-hidden="true" />
                 </a>
                 <a
-                  href="mailto:papaabdoulaye.ndoye.01@gmail.com"
+                  href="#"
                   className="text-muted-foreground hover:text-[#06b6d4] transition-all hover:scale-125"
                   aria-label="Envoyer un email"
                 >
