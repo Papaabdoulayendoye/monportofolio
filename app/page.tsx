@@ -60,7 +60,7 @@ export default function Home() {
     {
       name: "Shoes App",
       url: "https://github.com/Papaabdoulayendoye/shoes-app",
-      tech: ["React-Native", "Expo", "Sanity"],
+      tech: ["React-JS", "Vite"],
       description: "E-commerce de sneakers avec CMS headless, panier et paiement Stripe.",
       image: "https://i.postimg.cc/GhJ6bHp0/Capture-d-cran-2025-10-02-162931.png",
     },
@@ -86,6 +86,11 @@ export default function Home() {
       name: "React",
       color: "#61DAFB",
       logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    },
+    {
+      name: "Vite",
+    //   color: "#61DAFB",
+      logo: "https://vite.dev/logo.svg",
     },
     {
       name: "TypeScript",
