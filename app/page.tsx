@@ -69,7 +69,7 @@ export default function Home() {
       url: "https://github.com/Papaabdoulayendoye/flaskBlog",
       tech: ["Python", "Flask", "SQLite"],
       description: "Blog classique avec authentification, CRUD d'articles et système de commentaires.",
-      image: null,
+      image: "https://imgs.search.brave.com/Mlf51wkC-QH-fnN9oFFPK4cYkpHarRvjSu5_Lb-SNAg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kamFu/Z29jZW50cmFsLmNv/bS9tZWRpYS91cGxv/YWRzL3NjcmVlbHkt/MTU1MzgyNDA1MjQ1/My5wbmc",
     },
     {
       name: "Pal API",
