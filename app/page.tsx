@@ -55,7 +55,7 @@ export default function Home() {
       url: "https://github.com/Papaabdoulayendoye/threads",
       tech: ["Next.js", "MongoDB", "Clerk"],
       description: "Clone de Threads avec commentaires imbriqués, communautés et mises à jour en temps réel.",
-      image: "https://github.com/adrianhajdin/threads/assets/151519281/a9cd1088-968b-4b1d-b21a-f5f97d0c202b",
+      image: "https://i.postimg.cc/JzRN1Cbs/threadsvf.png",
     },
     {
       name: "Shoes App",
